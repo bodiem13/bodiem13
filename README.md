@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a full stack software engineer. I enjoy all things tech. I am focused on building software to make work easier and faster. 
+
 <!--
 **bodiem13/bodiem13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
