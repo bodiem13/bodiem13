@@ -2,6 +2,9 @@
 
 I am a full stack software engineer. I enjoy all things tech. I am focused on building software to make work easier and faster. 
 
+<a href="#"><img src="https://img.shields.io/badge/Full%20Stack-Developer-white?style=for-the-badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/Cloud%20-Engineering-white?style=for-the-badge"></a>
+
 <!--
 **bodiem13/bodiem13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
