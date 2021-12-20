@@ -3,7 +3,7 @@
 I am a full stack software engineer. I enjoy all things tech. I am focused on building software to make work easier and faster. 
 
 <a href="#"><img src="https://img.shields.io/badge/Full%20Stack-Developer-white?style=for-the-badge"></a>
-<a href="#"><img src="https://img.shields.io/badge/Cloud%20-Engineering-white?style=for-the-badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/Cloud%20-Engineer-white?style=for-the-badge"></a>
 
 ### Tools and Tech
 <code><img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
