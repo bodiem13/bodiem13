@@ -18,6 +18,7 @@ I am a full stack software engineer. I enjoy all things tech. I am focused on bu
 📈 GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bodiem13&show_icons=true&theme=react" alt="bodiem13" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bodiem13&show_icons=true&hide_border=true&hide=jupyter%20notebook,html&theme=react&layout=compact&langs_count=4"/>
 
 <!--
 **bodiem13/bodiem13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
